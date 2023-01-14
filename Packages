@@ -26,3 +26,17 @@ Name: Old Package
 Author: JailRepo <mashaal.al3nizy@gmail.com>
 Depiction: https://0xfff010.github.io/jailrepo/depictions/?p=com.supermamon.oldpackage
 
+Package: com.level3tjg.colorhomebar
+Version: 0.0.6
+Section: Tweaks
+Maintainer: JailRepo <mashaal.al3nizy@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.colorhomebar.deb
+Size: 220
+MD5sum: 38d4e971dbef01a9e825ba2f326c98d3
+Description: Color the homebar based on app icon colors
+Name: colorhomebar
+Author: JailRepo <mashaal.al3nizy@gmail.com>
+Depiction: https://0xfff010.github.io/jailrepo/depictions/?p=com.level3tjg.colorhomebar
+

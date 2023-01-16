@@ -1,0 +1,141 @@
+Package: ca.infiniteoptions
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks ( CA )
+Maintainer: CA Team
+Depends: firmware (>= 10.0), wget, apt | apt7
+Filename: ./debians/ca.infiniteoptions.deb
+Size: 16390198
+MD5sum: 7d75818aec52e52957ae042ff22af038
+SHA1: 707085cbcf240b1868e582cbc5dc0525139a4456
+SHA256: 09cfb7199f5a9d37c41e4f5aab3439f7aeef93f39a3e724c9c4438960c541ae6
+SHA512: b447e36ad295bab6e03c2c4fa82d46c448f4578c0f9d771082aea4f629f1d791937f3283f7ec191cd5a7e14486a03dfedfc39a2b81cfdf8a1f1965b3246b519b
+Description: ca.infiniteoptions
+Name: iNfiniteOptions
+Author: CA Team
+
+Package: codes.rambo.ipadify
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Guilherme Rambo
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debians/codes.rambo.ipadify.deb
+Size: 7308
+MD5sum: 1ba67eb0c9c1992dabe329ee51763e13
+SHA1: 31c5a657ccc4ce5b5a85050be1cba2b868d0f211
+SHA256: fd1d9e63b2a28acf179d611f4c2380cf9906a600d02f73db5284f8f9de57c842
+SHA512: 5d7a57fbe4c408373e4bc8d4ac8ff4a1662b1dceb90b4852502ab9ae5627c59e4f6519d02ec292b667812ce2dc1d3101c9d84c23afb81a0c7be0f39b8bb3877d
+Description: Give iPad capabilities to your iPhone.
+Name: ipadify
+Author: Guilherme Rambo
+
+Package: com.0x7ff.dimentio
+Architecture: iphoneos-arm
+Version: 2.0.8-3
+Section: System
+Maintainer: 1Conan <tweaks@1conan.com>
+Installed-Size: 388
+Provides: dimentio (= 1:0), libdimentio0 (= 1:0), libdimentio-dev (= 1:0)
+Depends: firmware (<< 14.0) | libkernrw0 | org.coolstar.libkernrw | libkrw
+Conflicts: dimentio, libdimentio0, libdimentio-dev
+Replaces: dimentio, libdimentio0, libdimentio-dev
+Filename: ./debians/com.0x7ff.dimentio.deb
+Size: 42272
+MD5sum: 5bce975365aff3a7508b68d8462d3b9d
+SHA1: 8c912a99e9c1cc2ab1558a43f13fa5d70b16e7c7
+SHA256: 5e7d05d94a00f11edee03340b9659229f0cbba548057ece8c29216ef88682a81
+SHA512: 43a95d1b6050109721922d694b6a189e9034897f50a0a2f67f5a6d27c7cb9a5139c638abf9b8370ea8de6cd0abcca981bfaa6aff6633184e5ea54584714404d1
+Description: PoC tool for setting/getting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
+Tag: role::hacker
+Name: dimentio
+Author: 0x7ff
+
+Package: com.1conan.tsssaver
+Architecture: iphoneos-arm
+Version: 2.0.5-1
+Section: Applications
+Maintainer: 1Conan <tweaks@1conan.com>
+Installed-Size: 232
+Depends: dimentio (>= 99) | com.0x7ff.dimentio (>= 2.0.0)
+Conflicts: co.dynastic.tsssaver
+Filename: ./debians/com.1conan.tsssaver.deb
+Size: 65762
+MD5sum: 2e876f21a5b939b9dacebc81cdcacef0
+SHA1: ed36dafe9ff601ac3959b4e84635018e77a963a6
+SHA256: 82b51f41100717262987b2afb8e8c5ae68f44450e215d282c0663a9dcbddfca6
+SHA512: 05a02198bafe2d6043f9724cb3f6b5cac68c1d1693ac2bed9c595895592bb9ad1c6424b446f53503e0afd58bbbce1cc0477b7decdf7eea6d952b141e8f5da37e
+Description: An easy to use app to save SHSH2 blobs
+Name: TSS Saver
+Author: 1Conan <tweaks@1conan.com>
+
+Package: com.4nni3.where
+Architecture: iphoneos-arm
+Version: 1.5-1
+Section: Tweaks
+Maintainer: 4nni3 <4nni3.14@gmail.com>
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debians/com.4nni3.where.deb
+Size: 70346
+MD5sum: 4eeafcf71fc6cfb973b3d0a26c5b2203
+SHA1: 11d6b07db357b567123b343133f45e9649945054
+SHA256: 5142fe20bc8ba788e99c2a1ab12c122799672e1cb51a8c9f1bdb99314508e8b4
+SHA512: 4106be9540fb3b877c41693725d3e1722a264e2b8ac26ed04d6d4f6c95f046cf2ec37554007653ea20ab975783dbaf233e7eb82e73ef895f575ef6080f70d208
+SileoDepiction: https://myclassic.net/sileo.php?pid=3311
+Name: Where
+Author: 4nni3 <4nni3.14@gmail.com>
+
+Package: com.6ilent.custofications
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: 6ilent <pkmnx7802@gmail.com>
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.11), applist
+Filename: ./debians/com.6ilent.custofications.deb
+Size: 35672
+MD5sum: 3d47ef138b80dc5452052a50230fa760
+SHA1: 9e81c8e80ad8469902dc8e49a370c276e7a31204
+SHA256: f1168243dcc8125a4702dda46120e93a824c36d968afe7ba4f50e70814ae4844
+SHA512: 3eae51244666f6e0011149f5d6014f9a7929361d44f9b49b1321a13bce54457a17dfa5805465cfbe45ce0a380f6909e13fd2e43eab0ec2af945ed13f87098334
+Description: Custom notifications
+Name: Custofications
+Author: 6ilent <pkmnx7802@gmail.com>
+
+Package: com.affimbr.callmagic
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: affimbr <affimbr@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./debians/com.affimbr.callmagic.deb
+Size: 87458
+MD5sum: f9223d46118233a3ab2c450c31c7d7d8
+SHA1: 3712367a16af1e884f76131d6de3629b419e62ed
+SHA256: a952b9e2fa5f14ae50f384504586327c6bf943f89254424a316cdf3a6dff2de9
+SHA512: 494f932d4f83b7847fe2851f46a8eb5723344ac16f12fa0682a7a5ef85cb75a8a51776b179be66259365406b868eaf5eca6ad5de311b0dce243b2e7d92b24aa1
+Homepage: https://affimbr.github.io/repo/#callmagic
+Description: Advanced call features.
+Name: CallMagic
+Author: affimbr <affimbr@gmail.com>
+Icon: file:///Library/PreferenceBundles/CallMagicPrefs.bundle/prefs-icon.png
+
+Package: com.ali.touchflowmodule
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Control Center (Modules)
+Maintainer: alimaulana
+Installed-Size: 252
+Depends: mobilesubstrate, com.opa334.ccsupport, com.creaturecoding.touchflow
+Filename: ./debians/com.ali.touchflowmodule.deb
+Size: 62500
+MD5sum: 99dafadd52aa35e72fe607d0cfcd2bef
+SHA1: b924b5c0c20823089cadb5b87e91d322089c061a
+SHA256: 45c8a453d11b1de1efcda4f0c844b39f9bf2d5120b286f52e5945a64a7cf5170
+SHA512: 87fc0f083cbcd1bea4e73ceca9af84ac4244eaf0dad340c54db8406ed1b37be7f9c27bdcae63b016176c15dfa21143b39c7d1522f462eaa0db2f6e48a839013a
+Description: Control Center module for TouchFlow
+Name: TouchFlow Module
+Author: alimaulana
+

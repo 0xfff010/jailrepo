@@ -1,9 +1,37 @@
-Origin: Jail Repo
-Label: Jail Repo
+Architectures: iphoneos-arm
+Codename: CODENAME_HERE
+Components: main
+Date: Mon, 16 Jan 2023 20:08:58 +0000
+Description: DESCRIPTION_HERE
+Label: LABEL_HERE
+Origin: ORIGIN_HERE
 Suite: stable
 Version: 1.0
-Codename: tangelo
-Architectures: iphoneos-arm
-Components: main
-Description: Jail Repo For Tweaks Jailbreak
-
+MD5Sum:
+ 595de915e8a693a447d46701403d68e1             5594 Packages
+ af5ce336d5e77ac9f92bbad74bc1420e             2608 Packages.bz2
+ ad0e358058486a02e3852639bba42df2             2598 Packages.gz
+ 25ec52bf1192354d2a2195cf299b0d4b             2544 Packages.xz
+ 8e445e5193302db35e4c7b4f91f86797             2500 Packages.zst
+ 29c3adfd6addabc61b4e31d5ab450441              202 Release
+SHA1:
+ a492eb30350c5843222dff3eac9c142a73d121b9             5594 Packages
+ 7ae855a2f6d20da0b988b3ec53c051af4457b0d5             2608 Packages.bz2
+ 9b093a299cea4a6e7f90ccb8245a1fa9b7ba4771             2598 Packages.gz
+ bae33609a63a4a47dc7937a062037ec1458c60dd             2544 Packages.xz
+ 4bf5d2b804277e30d8510705f6a57f10bdfa14d8             2500 Packages.zst
+ a9d2df2fc957fc758f090ca96fcacd897986aa50              202 Release
+SHA256:
+ e6cba206d1ab8f54efa39ccc5f50c4e5efc0294d748d2a3ef339d62bcbcc01a3             5594 Packages
+ 423dba28e127bc82ed3f8140e39491741316801da6cb5bef21e7af10847a8499             2608 Packages.bz2
+ 553f114199465665341f05dcb23a5f90796988bbbbf36f29d4dcc2a0d9086b94             2598 Packages.gz
+ 145bfc20d38b0348691cfa240b88a6c698977fd98d1976d77c31b2647a020993             2544 Packages.xz
+ 60fc9b2e2a91fd1a76fb3f506164009775425fda2602bc176b4447b5bedbf1ec             2500 Packages.zst
+ cab1a9ab1e8f424f394db4eb8feed3c0bd5ad54ee24e84b6440b245c86907470              202 Release
+SHA512:
+ 4211ee56773d04efbc68a4f00fa47cb57ad57bd95a5990a5dc38c526bc786273cfe6eaebb027d6d9fe42ec4f60c60e069eca1644559cce03b29568a5efb526dc             5594 Packages
+ 94db6b82dfae2a8d395ae91b020a5c96cdbabfa2e6a9bd79374e4473b468f29dcbf20a6dbf9c9b1bc1a06c22cd8b857e9050b386bc4f7d8622332452d99789af             2608 Packages.bz2
+ cab7bf28c112eb70f5d770ed5d5b1cb7451b365c0d38be95eabe5f55d067cdd6f532d5ab3d3a9c24ef232477d0292e57613c9316fa764390b048e9e744083215             2598 Packages.gz
+ 648be6f5a99d6e0eb192b7979a328e1ef57d66c504c9964c717a267ec96089e9a34594b50ec836c23fc224d5d4aa6d5148f1b3122d08da2577421c0516031284             2544 Packages.xz
+ c042cc0309852669bac1e8e9ac9c67a410f2ec9afe4f3edf083713d1e0b325118d45ac2c9d37cc0d1f29aec7c2a723d0e5d045c4e3ed1ab032531cc7c8fb5a18             2500 Packages.zst
+ fc3a2d22f91bd1f3134155e45a87dab1420175c3dde557b98952aff81f075f0830452cbb292a41aa90c1df069b6a0a5a0137eee88741e39125c898dd33c0bbe0              202 Release

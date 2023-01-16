@@ -1,0 +1,25 @@
+{
+    "github": "syns/repo.me",
+    "Depiction": {
+        "class": "CydiaXML",
+        "path": "depictions/web/{package}/info.xml",
+        "url": "{host}/depictions/web/?p={package}"
+    },
+    "SileoDepiction": {
+        "class": "Sileo",
+        "path": "depictions/native/{package}/depiction.json",
+        "url": "{host}/depictions/native/{package}/depiction.json"
+    },
+    "deb_path": "debians",
+    "apt.conf": "assets/repo/repo.conf",
+    "exclude": [
+        "Packages*",
+        "debians/me.syns.sample.deb",
+        "depictions/web/me.syns.samplepackage",
+        "depictions/native/me.syns.samplepackage",
+        "assets/repo/Banners/*",
+        "assets/repo/Screenshots/*",
+        "sileo-featured.json"
+    ],
+    "name": "repo.me"
+}

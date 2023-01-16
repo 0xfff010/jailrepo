@@ -1,0 +1,9 @@
+Origin: Jail Repo
+Label: Jail Repo
+Suite: stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: Jail Repo For Tweaks Jailbreak
+
